@@ -23,7 +23,8 @@ When you just want your app to look fine or prototype quickly.
 
 For building UI Libraries.
 
-- [panda-css](https://github.com/chakra-ui/panda) — universal, Type-Safe, CSS-in-JS Framework for product teams.
+- [Panda CSS](https://github.com/chakra-ui/panda) — universal, type-safe, CSS-in-JS framework for product teams.
+- [Pigment CSS](https://github.com/mui/pigment-css/) — zero-runtime CSS-in-JS tool that extracts the colocated styles to their own CSS files at build time. Brings better end users' performance, and you get RSC and App Router compatibility without having to significantly change how you author component styles.
 - [cva](https://github.com/joe-bell/cva) — helps creating component variants.
 
 ### Carousel
@@ -75,13 +76,19 @@ For building UI Libraries.
 
 ### Syntax highlighting
 
+- [Shiki](https://github.com/shikijs/shiki) — manage syntax highlighting. It is designed to work at compile-time, making it perfect fit for React Server Components. It adds 0kb to the JavaScript bundle and it can support dozens of languages at no additional cost.
 - [rehype-pretty-code](https://github.com/rehype-pretty/rehype-pretty-code) — beautiful code blocks powered by [shiki](https://github.com/shikijs/shiki).
 
 ## UI Animation
 
+- [React Spring](https://github.com/pmndrs/react-spring) — smoothly interpolate between values in a fluid, organic fashion.
+- [Framer Motion](https://github.com/framer/motion) — for complex animations (i.e. layout animations) with declarative code.
 - [AutoAnimate](https://github.com/formkit/auto-animate) — for animations with a single line of code.
-- [Framer Motion](https://github.com/framer/motion) — for complex animations with declarative code.
 - [CountUp](https://github.com/glennreyes/react-countup) — quickly create animations that display numerical data in a more interesting way.
+
+## Real-time
+
+- [PartyKit](https://github.com/partykit/partykit/) — add real-time experience to your projects. It uses WebSockets so that the changes are lightning-fast.
 
 ## UI Utilities
 
