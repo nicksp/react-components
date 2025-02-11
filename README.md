@@ -17,7 +17,7 @@ When you just want your app to look fine or prototype quickly.
 
 - [daisyUI](https://github.com/saadeghi/daisyui) — Tailwind CSS components.
 - [shadcn/ui](https://github.com/shadcn-ui/ui) — beautifully designed components that you can copy and paste into your apps. Accessible. Customizable.
-- [NextUI](https://github.com/nextui-org/nextui) — beautiful, fast and modern React UI library.
+- [HeroUI](https://github.com/heroui-inc/heroui) — beautiful, fast and modern React UI library.
 
 ### Class variance authority
 
